@@ -64,7 +64,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="container">
-        <h1>¡Hola desde Azure Container Registry!</h1>
+        <h1>¡Hola desde Azure Container Registry! TEST</h1>
         <p>Esta es una aplicación Flask desplegada con Docker y CI/CD en Azure.</p>
         <a href="https://azure.microsoft.com" target="_blank" class="btn">Visita Azure</a>
         <footer>Flask App con Docker & CI/CD</footer>
