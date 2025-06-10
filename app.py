@@ -30,7 +30,7 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>Tus buenos vecinos!!!</h1>
+    <h1>Tus buenos vecinos!!! Prueba</h1>
 </body>
 </html>
 """
